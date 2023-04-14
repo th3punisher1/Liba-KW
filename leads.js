@@ -30,7 +30,7 @@
 
         // Fire off the request to /form.php
         request = $.ajax({
-            url: "https://www.mozwar.com/go/745/?order=jdCmvmwTAVkpUmFmWv4bmZl8PDFJ79",
+            url: "https://www.mozwar.com/go/745/?order=pLrsBHzEeC3F54uvOtfeYSzDdCGZay",
             type: "post",
             data: serializedData
         });
